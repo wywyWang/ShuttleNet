@@ -48,3 +48,15 @@ python evaluate.py {model_path}
 python generator.py {model_path}
 ```
 
+## Citation
+If you find our work is relevant to your research, please cite:
+```
+@misc{ShuttleNet_2022_AAAI,
+    author = {Wei-Yao Wang, Hong-Han Shuai, Kai-Shiang Chang, Wen-Chih Peng},
+    title = {ShuttleNet: Position-aware Fusion of Rally Progress and Player Styles for Stroke Forecasting in Badminton},
+    year = {2021}
+    eprint = {2112.01044},
+    archivePrefix = {arXiv},
+    primaryClass = {cs.CL}
+}
+```
