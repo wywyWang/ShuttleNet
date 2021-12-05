@@ -1,5 +1,6 @@
 # ShuttleNet: Position-aware Rally Progress and Player Styles Fusion for Stroke Forecasting in Badminton (AAAI 2022)
 Official code of the paper **ShuttleNet: Position-aware Rally Progress and Player Styles Fusion for Stroke Forecasting in Badminton**.
+Paper: https://arxiv.org/abs/2112.01044
 
 ## Overview
 ShuttleNet contains two encoder-decoder modified Transformer as extractors, and a position-aware gated fusion network for fusing these contexts to tackle stroke forecasting in badminton.
