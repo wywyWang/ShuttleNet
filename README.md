@@ -49,7 +49,7 @@ python generator.py {model_path}
 ```
 
 ## Citation
-If you find our work is relevant to your research, please cite:
+If you use our dataset or find our work is relevant to your research, please cite:
 ```
 @misc{ShuttleNet_2022_AAAI,
     author = {Wei-Yao Wang, Hong-Han Shuai, Kai-Shiang Chang, Wen-Chih Peng},
